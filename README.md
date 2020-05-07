@@ -1,12 +1,21 @@
 华为云DevCloud软件编程大赛·口罩配送大作战（赛道一）
+
 用于测试
+
 使用方式：
+
 编译命令（要求jdk1.8）：javac MaskTest.java
+
 运行命令：java MaskTest <你的代码进程启动命令>
+
 例如：
+
 C++(windows): java MaskTest Main.exe
+
 C++(linux): java MaskTest ./Main.out
+
 java: java MaskTest java Main
+
 python: java MaskTest python Main.py
 
 
